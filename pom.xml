@@ -17,5 +17,7 @@
         <module>mall-order</module>
         <module>mall-coupon</module>
         <module>mall-admin</module>
+        <module>generator</module>
+        <module>mall-commom</module>
     </modules>
 </project>
